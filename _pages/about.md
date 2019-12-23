@@ -17,7 +17,7 @@ $$\max\, c^\top x,\: Ax = b,\: x \geq 0,\: A \in \mathbb{R}^{m \times n}$$
 This improves on the running time $$O(n^{3.5} \log (\bar{\chi}_A+n))$$ of previous LLS methods. The result is achieved via a matroidal characterization of $$\bar{\chi}^*_A$$. In particular, we give an efficient algorithm to find a column scaling $$D$$ satisfying $$\bar{\chi}_{AD} \leq n(\bar{\chi}^*)^3$$.
 The improved $$O(n^{2.5})$$ dependence is achieved by  a refined potential function based analysis for LLS algorithms in general. 
 
-Displayed maths mode: $$$a^2 + b^2 = c^2.$$$ 
+Displayed maths mode: $($a^2 + b^2 = c^2.$)$
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
