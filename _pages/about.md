@@ -10,7 +10,7 @@ redirect_from:
 
 We present a layered-least squares (LLS) interior point method that solves a linear program
  of the form
-$$\max\, c^\top x,\: Ax = b,\: x \geq 0,\: A \in \mathbb{R}^{m \times n}$ 
+$$\max\, c^\top x,\: Ax = b,\: x \geq 0,\: A \in \mathbb{R}^{m \times n}$$ 
  in $O(n^{2.5} \log n\log (\bar{\chi}^*_A+n))$$ iterations. Here, $$\bar{\chi}^*_A$$
  is defined as the minimum value of the condition number $$\bar{\chi}_{A}$$ achievable by a column rescaling.
 
