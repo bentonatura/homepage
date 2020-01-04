@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Global Interconnect Optimization"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We propose a new comprehensive solution to global interconnect optimization.'
+date: 2019-10-01
+venue: 'International Conference on Computer-Aided Design (ICCAD)'
+paperurl: 'https://ieeexplore.ieee.org/document/8942155/'
+# citation: 'with Siad Daboul'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+We propose a new comprehensive solution to global interconnect optimization. Traditional buffering algorithms mostly insert repeaters on a net-by-net basis based on slacks and possibly guided by global wires. We show how to integrate routing congestion, placement congestion, global timing constraints, power consumption, and additional constraints into a single resource sharing formulation. The core of our algorithm is a new buffered routing subroutine. Given a net and Lagrangean resource prices for routing, timing, placement, and power, it computes a buffered global route. The resource sharing framework provides a special multiplicative price update for fast convergence. Our algorithm is fast enough for practical instances. We demonstrate experimentally on 7nm microprocessor units that it significantly improves timing while reducing netlength and power consumption in an industrial design flow.
