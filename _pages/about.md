@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+**Post-Doc Position in our Group**
+
+A new postdoc position is open in the [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html) project led by L&aacute;szl&oacute;
+V&eacute;gh, with application deadline 24th January 2020.
+
+**IPCO 2020 will take place at LSE**
+
+[<img src="http://www.lse.ac.uk/ipco-2020/assets/images/IPCO-Poster-Final.jpg">](http://www.lse.ac.uk/IPCO-2020)
+
 
 We present a layered-least squares (LLS) interior point method that solves a linear program
  of the form
