@@ -1,17 +1,38 @@
 ---
 permalink: /
-title: "News"
-excerpt: "About me"
+title: "About"
+excerpt: "This is about me"
 author_profile: true
+toc: true
+toc_label: "My Table of Contents"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<img style="width:30%; padding: 20px; float:right;" src="./images/erc.jpg">
+<img style="width:20%; padding: 20px; float:right;" src="./images/lse.svg">
+
+I am a PhD student under supervision of L&aacute;szl&oacute;
+V&eacute;gh.
+I am a PhD student under supervision of L&aacute;szl&oacute;
+V&eacute;gh.
+I am a PhD student under supervision of L&aacute;szl&oacute;
+V&eacute;gh.
+I am a PhD student under supervision of L&aacute;szl&oacute;
+V&eacute;gh.
+
+
+___
+
+# News
+
 **Post-Doc Position in our Group**
 
 A new postdoc position is open in the [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html) project led by L&aacute;szl&oacute;
 V&eacute;gh, with application deadline 24th January 2020.
+
+---
 
 **IPCO 2020 will take place at LSE**
 
