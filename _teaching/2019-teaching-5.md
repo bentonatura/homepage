@@ -1,10 +1,10 @@
 ---
-title: "Further Mathematical Methods"
+title: "Programming in C++"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-spring-teaching-1
+permalink: /teaching/2019-spring-teaching-3
 venue: "London School of Economics, Department of Mathematics"
-date: 2018-01-01
+date: 2019-01-01
 location: "London, United Kingdom"
 ---
 

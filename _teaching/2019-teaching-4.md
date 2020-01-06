@@ -2,9 +2,9 @@
 title: "Operational Research Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/2019-spring-teaching-2
 venue: "London School of Economics, Department of Mathematics"
-date: 2016-01-01
+date: 2019-01-01
 location: "London, United Kingdom"
 ---
 
