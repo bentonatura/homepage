@@ -17,16 +17,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013 - 2014: Research Assistant at the Research Institute for Discrete Mathematics, University of Bonn
+  * Timing in VLSI-Project in cooperation with IBM
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016 - 2017: Research Assistant at the Research Institute for Discrete Mathematics, University of Bonn
+  * Routing in VLSI-Project in cooperation with IBM
+
 Skills
 ======
 * Skill 1
