@@ -1,28 +1,17 @@
 {% include base_path %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-        
-      {% endif %}
-      
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
-  {% endif %}
+  <div class="sidebar_right sticky">
+
+    <a href="http://www.lse.ac.uk" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg
+        " alt="LSE">
+        </a>
+ 
+  <a href="https://erc.europa.eu/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/European_Research_Council_logo.svg/1200px-European_Research_Council_logo.svg.png" alt="ERC">
+  </a>
+
   <a href="http://www.lse.ac.uk/IPCO-2020" target="_blank">
     <img src="http://www.lse.ac.uk/ipco-2020/assets/images/IPCO-Poster-Final.jpg" alt="IPCO">
   </a>

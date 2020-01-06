@@ -10,7 +10,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(8 of 12 );
     @include prefix(0.5 of 12);
   }
 
@@ -186,11 +186,11 @@
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(5 of 12);
+        @include span(8 of 12);
       }
 
       .archive__item-body {
-        @include span(7 of 12 last);
+        @include span(8 of 12 last);
         @include prefix(0.5 of 12);
         @include suffix(1 of 12);
       }

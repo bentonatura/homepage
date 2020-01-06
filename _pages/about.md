@@ -10,9 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-<img style="width:30%; padding: 20px; float:right;" src="./images/erc.jpg">
-<img style="width:20%; padding: 20px; float:right;" src="./images/lse.svg">
-
 I am a PhD student under supervision of L&aacute;szl&oacute;
 V&eacute;gh.
 I am a PhD student under supervision of L&aacute;szl&oacute;
