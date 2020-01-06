@@ -2,15 +2,14 @@
 title: "A scaling-invariant algorithm for linear programming whose running time depends only on the constraint matrix"
 collection: preprints 
 permalink: /preprints/scaling-invariant-paper
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'We find a scaling-invariant layered least squared algorithm for linear programming'
 date: 2019-12-12
-venue: 'Journal 1'
-paperurl: 'https://arxiv.org/abs/1912.06252'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+arxiv: 'https://arxiv.org/abs/1912.06252'
+# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+coauthors: Daniel Dadush, Sophie Huiberts, and L&aacute;szl&oacute; A. V&eacute;gh 
 ---
 
 [Download paper here](https://arxiv.org/abs/1912.06252)
-Joint work with Daniel Dadush, Sophie Huiberts, and L&aacute;szl&oacute; A. V&eacute;gh.
 
 Following the breakthrough work of Tardos (Oper. Res. '86) in the bit-complexity
 model, Vavasis and Ye (Math. Prog. '96) gave the first exact algorithm for
