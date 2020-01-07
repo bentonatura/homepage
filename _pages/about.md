@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "This is about me"
+title: "Profile"
+excerpt: ""
 author_profile: true
 toc: true
 toc_label: "My Table of Contents"
