@@ -5,7 +5,7 @@ permalink: /preprints/scaling-invariant-paper
 excerpt: 'We find a scaling-invariant layered least squared algorithm for linear programming'
 date: 2019-12-12
 arxiv: 'https://arxiv.org/abs/1912.06252'
-pdf: '/files/scaling_invariant.pdf'
+pdf: 'files/scaling_invariant.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 coauthors: Daniel Dadush, Sophie Huiberts, and L&aacute;szl&oacute; A. V&eacute;gh 
 ---
@@ -16,7 +16,7 @@ Following the breakthrough work of Tardos (Oper. Res. '86) in the bit-complexity
 model, Vavasis and Ye (Math. Prog. '96) gave the first exact algorithm for
 linear programming in the real model of computation with running time depending
 only on the constraint matrix. For solving a linear program (LP)
-$\max\, c^\T x,\:  Ax = b,\:  x \geq 0,\:  A \in \R^{m \times n}$, Vavasis and Ye
+$\max\, c^\top x,\:  Ax = b,\:  x \geq 0,\:  A \in \R^{m \times n}$, Vavasis and Ye
 developed a primal-dual interior point method using a _layered least
 squares_ (LLS) step, and showed that $O(n^{3.5} \log
 (\bar{\chi}_A+n))$ iterations suffice to solve (LP) exactly, where $\bar{\chi}_A$ is a condition measure

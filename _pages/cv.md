@@ -9,28 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * B.S. in Mathematics, University of Bonn, 2014
 * M.S. in Mathematics, University of Bonn, 2017
-* Ph.D in Mathematics, London School of Economics, 2022 (expected)
+* PhD in Mathematics, London School of Economics, 2022 (expected)
 
 Work experience
 ======
-* 2013 - 2014: Research Assistant at the Research Institute for Discrete Mathematics, University of Bonn
-  * Timing in VLSI-Project in cooperation with IBM
+* 2018 Visiting Associate, **The Boston Consulting Group**, Munich, Germany 
+* 2018 Machine Learning Intern, **TNG Technology Consulting**, Munich, Germany
 
-* 2016 - 2017: Research Assistant at the Research Institute for Discrete Mathematics, University of Bonn
+* 2016 - 2017: Research Assistant, **Research Institute for Discrete Mathematics**, University of Bonn
   * Routing in VLSI-Project in cooperation with IBM
 
-Skills
+* 2013 - 2014: Research Assistant, **Research Institute for Discrete Mathematics**, University of Bonn
+  * Timing in VLSI-Project in cooperation with IBM
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
