@@ -2,7 +2,7 @@
 title: "Combinatorics, Graphs and Matroids"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/cgm
+permalink: /teaching/cgm.html
 venue: "University of Bonn, Research Institute for Discrete Mathematics"
 date: 2016-01-01
 location: "Bonn, Germany"
