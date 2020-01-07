@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Bonn, 2014
-* M.S. in Mathematics, University of Bonn, 2017
 * PhD in Mathematics, London School of Economics, 2022 (expected)
+* M.S. in Mathematics, University of Bonn, 2017
+* B.S. in Mathematics, University of Bonn, 2014
 
 Work experience
 ======

@@ -11,9 +11,9 @@ redirect_from:
 ---
 
 I am a second year PhD student at the [London School of Economics](http://lse.ac.uk) under supervision of L&aacute;szl&oacute;
-V&eacute;gh. I am funded by his ERC grant [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html) project led by [L&aacute;szl&oacute; V&eacute;gh](http://personal.lse.ac.uk/veghl/). 
-I received my Bachelor's and Master's degrees from The University of Bonn under supervision of [Stephan Held](http://www.or.uni-bonn.de/~held/Stephan_Held.html) and [Jens Vygen](http://www.or.uni-bonn.de/~vygen/). 
-My research interests are broadly in Combinatorial Optimization, Convex Programming and Game Theory.
+V&eacute;gh. I am funded by his [ERC](https://erc.europa.eu/) grant [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html). 
+Both my Bachelor's and Master's degrees were received from The University of Bonn under supervision of [Stephan Held](http://www.or.uni-bonn.de/~held/Stephan_Held.html) and [Jens Vygen](http://www.or.uni-bonn.de/~vygen/). 
+My research interests are in Operational Research, Combinatorial Optimization, Convex Programming and Game Theory.
 
 ---
 
