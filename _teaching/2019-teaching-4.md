@@ -2,7 +2,7 @@
 title: "Operational Research Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/ma231
+permalink: /teaching/ma231.html
 venue: "London School of Economics, Department of Mathematics"
 date: 2019-01-01
 location: "London, United Kingdom"

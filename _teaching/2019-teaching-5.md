@@ -2,7 +2,7 @@
 title: "Programming in C++"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/ma332
+permalink: /teaching/ma332.html
 venue: "London School of Economics, Department of Mathematics"
 date: 2019-01-01
 location: "London, United Kingdom"

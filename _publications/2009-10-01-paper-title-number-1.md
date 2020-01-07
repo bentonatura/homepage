@@ -1,7 +1,7 @@
 ---
 title: "Global Interconnect Optimization"
 collection: publications
-permalink: /publication/global_interconnect_optimization
+permalink: /publication/global_interconnect_optimization.html
 excerpt: 'We propose a new comprehensive solution to global interconnect optimization.'
 date: 2019-10-01
 venue: 'International Conference on Computer-Aided Design (ICCAD)'

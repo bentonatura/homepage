@@ -2,7 +2,7 @@
 title: "Further Mathematical Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/ma212
+permalink: /teaching/ma212.html
 venue: "London School of Economics, Department of Mathematics"
 date: 2018-01-01
 location: "London, United Kingdom"

@@ -2,7 +2,7 @@
 title: "Calculus I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/calculus_one
+permalink: /teaching/calculus_one.html
 venue: "University of Bonn, Institue for Applied Mathematics"
 date: 2013-01-01
 location: "Bonn, Germany"

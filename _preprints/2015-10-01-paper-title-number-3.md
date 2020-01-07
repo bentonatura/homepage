@@ -1,7 +1,7 @@
 ---
 title: "A scaling-invariant algorithm for linear programming whose running time depends only on the constraint matrix"
 collection: preprints 
-permalink: /preprints/scaling_invariant_lls
+permalink: /preprints/scaling_invariant_lls.html
 excerpt: 'We find a scaling-invariant layered least squared algorithm for linear programming'
 date: 2019-12-12
 arxiv: 'https://arxiv.org/abs/1912.06252'
