@@ -5,6 +5,7 @@ permalink: /preprints/scaling-invariant-paper
 excerpt: 'We find a scaling-invariant layered least squared algorithm for linear programming'
 date: 2019-12-12
 arxiv: 'https://arxiv.org/abs/1912.06252'
+pdf: './files/scaling_invariant.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 coauthors: Daniel Dadush, Sophie Huiberts, and L&aacute;szl&oacute; A. V&eacute;gh 
 ---

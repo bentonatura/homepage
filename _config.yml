@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bento Natura/ PhD Student"
+title                    : "Bento Natura"
 title_separator          : "-"
 name                     : &name "Bento Natura"
 description              : &description "personal description"
@@ -84,9 +84,11 @@ analytics:
 author:
   name             : "Bento Natura"
   avatar           : "profile.png"
-  bio              : "I am a second-year PhD student under supervision of L&aacute;szl&oacute; A. V&eacute;gh."
-  location         : "London, United Kingdom"
-  employer         :
+  bio              : "I am a second-year PhD student at the London School of Economics under supervision of L&aacute;szl&oacute; A. V&eacute;gh."
+  location         : "Houghton Street, London, United Kingdom"
+  location_pin     : "https://goo.gl/maps/poUyRuRbvCkyiNE58"
+  employer         : London School of Economics
+  employer_link    : "https://lse.ac.uk"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4rDjvrsAAAAJ&hl=en&oi=ao"
   email            : "b.natura@lse.ac.uk"
@@ -185,7 +187,7 @@ collections:
     permalink: /:collection/:path/
   preprints:
     output: true
-    permalink: /:collecdtion/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
