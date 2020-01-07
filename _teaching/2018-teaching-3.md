@@ -8,4 +8,4 @@ date: 2018-01-01
 location: "London, United Kingdom"
 ---
 
-Find the course description [here](http://www.lse.ac.uk/resources/calendar/courseGuides/MA/2019_MA212.html).
+Find the course description [here](http://www.lse.ac.uk/resources/calendar/courseGuides/MA/2019_MA212.htm). 
