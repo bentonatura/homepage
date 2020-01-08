@@ -9,4 +9,4 @@ redirect_from:
 
 ## Cool things 
 
-Here I am going to write about software tools that for convenience of a PhD student (especially in the sciences.)
+Here I am going to write about software tools for convenience of a PhD student (especially in the sciences.)
