@@ -90,10 +90,18 @@
   }
 
   img {
-    width: 100%;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    max-width: 175px;
+    display: none;
+  }
+
+  @include breakpoint($large){
+    img {
+      display: block;
+      width: 100%;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      max-width: 175px;
+    }
+
   }
   
 }
