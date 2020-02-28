@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Profile"
+title: "About me"
 excerpt: ""
 author_profile: true
 toc: true
@@ -13,19 +13,24 @@ redirect_from:
 I am a second year PhD student at the [London School of Economics](http://lse.ac.uk) under supervision of L&aacute;szl&oacute;
 V&eacute;gh. I am funded by his [ERC](https://erc.europa.eu/) grant [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html). 
 Both my Bachelor's and Master's degrees were received from The University of Bonn under supervision of [Stephan Held](http://www.or.uni-bonn.de/~held/Stephan_Held.html) and [Jens Vygen](http://www.or.uni-bonn.de/~vygen/). 
-My research interests are in Operational Research, Combinatorial Optimization, Convex Programming and Game Theory.
+My research interests are in Operational Research, Combinatorial Optimization, Convex Optimization and Game Theory.
 
----
+
 
 # News
 
-**Post-Doc Position in our group**
+* I am attending [PCC](https://pcc2020.github.io/) and the [Scottish Combinatorics Meeting](http://www.dcs.gla.ac.uk/~kitty/scm/) in Glasgow, 27 April - 01 May 2020 
+  
+* I am giving a talk at the [Edinburgh Workshop on Operational Research](https://www.icms.org.uk/EWOR.php){:target="_blank"}, 20-24 April 2020.
 
-A new postdoc [position](https://jobs.lse.ac.uk/Vacancies/W/6186/0/255910/15539/research-officer-in-algorithms-and-optimisation) is open in the [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html) project led by [L&aacute;szl&oacute; V&eacute;gh](http://personal.lse.ac.uk/veghl/), with application deadline 24th January 2020.
+* I am going to give a talk at the [SMAI MODE](https://smai-mode2020.inria.fr/en/){:target="_blank"} days in Paris, 25-27 March  2020.
+
+
+* Our [paper](https://arxiv.org/abs/1912.06252) on an interior point for linear programming got accepted to STOC 2020
 
 ---
 
 **IPCO 2020 will take place at LSE**
 
-[<img src="http://www.lse.ac.uk/ipco-2020/assets/images/IPCO-Poster-Final.jpg">](http://www.lse.ac.uk/IPCO-2020)
+[<img src="http://www.lse.ac.uk/ipco-2020/assets/images/IPCO-Poster-Final.jpg" style="width: 500px;">](http://www.lse.ac.uk/IPCO-2020)
 
