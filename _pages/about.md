@@ -10,9 +10,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at the [London School of Economics](http://lse.ac.uk) under supervision of L&aacute;szl&oacute;
-V&eacute;gh. I am funded by his [ERC](https://erc.europa.eu/) grant [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html). 
-Both my Bachelor's and Master's degrees were received from The University of Bonn under supervision of [Stephan Held](http://www.or.uni-bonn.de/~held/Stephan_Held.html) and [Jens Vygen](http://www.or.uni-bonn.de/~vygen/). 
+I am a second year PhD student at the [London School of Economics](http://lse.ac.uk) under supervision of [L&aacute;szl&oacute;
+V&eacute;gh](http://personal.lse.ac.uk/veghl/){:target="_blank"}. I am funded by his [ERC](https://erc.europa.eu/) grant [ScaleOpt](http://personal.lse.ac.uk/veghl/scaleopt.html){:target="_blank"}. 
+Both my Bachelor's and Master's degrees were received from The University of Bonn under supervision of [Stephan Held](http://www.or.uni-bonn.de/~held/Stephan_Held.html){:target="_blank"} and [Jens Vygen](http://www.or.uni-bonn.de/~vygen/){:target="_blank"}. 
 My research interests are in Operational Research, Combinatorial Optimization, Convex Optimization and Game Theory.
 
 
@@ -26,7 +26,7 @@ My research interests are in Operational Research, Combinatorial Optimization, C
 * I am going to give a talk at the [SMAI MODE](https://smai-mode2020.inria.fr/en/){:target="_blank"} days in Paris, 25-27 March  2020.
 
 
-* Our [paper](https://arxiv.org/abs/1912.06252) on an interior point for linear programming got accepted to STOC 2020
+* Our [paper](http://personal.lse.ac.uk/natura/preprints/scaling_invariant_lls.html) on an interior point for linear programming got accepted to STOC 2020
 
 ---
 
