@@ -2,6 +2,13 @@
 permalink: /
 title: "About me"
 excerpt: ""
+header:
+  overlay_image: trees.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+  overlay_filter: rgba(0, 0, 0, .5)
 author_profile: true
 toc: true
 toc_label: "My Table of Contents"
@@ -15,15 +22,15 @@ V&eacute;gh](http://personal.lse.ac.uk/veghl/){:target="_blank"}. I am funded by
 Both my Bachelor's and Master's degrees were received from The University of Bonn under supervision of [Stephan Held](http://www.or.uni-bonn.de/~held/Stephan_Held.html){:target="_blank"} and [Jens Vygen](http://www.or.uni-bonn.de/~vygen/){:target="_blank"}. 
 My research interests are in Operational Research, Combinatorial Optimization, Convex Optimization and Game Theory.
 
+## News
 
+* The events all got rightly postponed or cancelled. We should all stay at home.
 
-# News
-
-* I am attending [PCC](https://pcc2020.github.io/) and the [Scottish Combinatorics Meeting](http://www.dcs.gla.ac.uk/~kitty/scm/) in Glasgow, 27 April - 01 May 2020 
+* ~~I am attending [PCC](https://pcc2020.github.io/) and the [Scottish Combinatorics Meeting](http://www.dcs.gla.ac.uk/~kitty/scm/) in Glasgow, 27 April - 01 May 2020.~~
   
-* I am giving a talk at the [Edinburgh Workshop on Operational Research](https://www.icms.org.uk/EWOR.php){:target="_blank"}, 20-24 April 2020.
+* ~~I am giving a talk at the [Edinburgh Workshop on Operational Research](https://www.icms.org.uk/EWOR.php){:target="_blank"}, 20-24 April 2020.~~
 
-* I am going to give a talk at the [SMAI MODE](https://smai-mode2020.inria.fr/en/){:target="_blank"} days in Paris, 25-27 March  2020.
+* ~~I am going to give a talk at the [SMAI MODE](https://smai-mode2020.inria.fr/en/){:target="_blank"} days in Paris, 25-27 March  2020.~~
 
 
 * Our [paper](http://personal.lse.ac.uk/natura/preprints/scaling_invariant_lls.html) on an interior point for linear programming got accepted to STOC 2020
