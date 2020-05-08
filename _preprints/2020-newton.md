@@ -2,6 +2,8 @@
 title: "A Strongly Polynomial Label-Correcting Algorithm for Linear Systems with Two Variables per Inequality"
 collection: preprints 
 permalink: /preprints/2VPI.html
+arxiv: 'https://arxiv.org/abs/2004.08634'
+pdf: 'files/newton/pdf.pdf'
 excerpt: 'We develop a new strongly polynomial algorithm for Linear Systems with Two Variables per Inequality' 
 date: 2020-04-17
 # venue: 'Symposium on Theory of Computing (STOC)'
@@ -10,6 +12,10 @@ date: 2020-04-17
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 coauthors: Zhuan Khye Koh, and L&aacute;szl&oacute; A. V&eacute;gh 
 ---
+
+[Mobile-friendly](../files/newton/web/index.html)
+
+[Download paper here](https://arxiv.org/abs/2004.08634)
 
 We present a strongly polynomial label-correcting algorithm for solving the feasibility of linear systems with two variables per inequality (2VPI).
 The algorithm is based on the Newton--Dinkelbach method for fractional combinatorial optimization.

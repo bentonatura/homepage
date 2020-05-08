@@ -17,7 +17,7 @@ coauthors: Daniel Dadush, and L&aacute;szl&oacute; A. V&eacute;gh
 In breakthrough work, Tardos (Oper. Res. '86) gave a *proximity* based
 framework for solving linear programming (LP) in time depending only on
 the constraint matrix in the bit complexity model. In Tardos's
-framework, one reduces solving the LP $\min \pr{c}{x}$, $Ax=b$,
+framework, one reduces solving the LP $\min \langle c, x \rangle$, $Ax=b$,
 $x \geq 0$, $A \in \Z^{m \times n}$, to solving $O(mn)$ LPs in $A$
 having small integer coefficient objectives and right-hand sides using
 *any exact* LP algorithm.

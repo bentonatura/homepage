@@ -24,6 +24,8 @@ My research interests are in Operational Research, Combinatorial Optimization, C
 
 ## News
 
+* I am joining the [GeomScale](https://geomscale.github.io/) project this summer with a stipend by [Google](https://summerofcode.withgoogle.com/) to work on fast modern approaches to Sum-of-squares optimization.
+
 * The events all got rightly postponed or cancelled. We should all stay at home.
 
 * ~~I am attending [PCC](https://pcc2020.github.io/) and the [Scottish Combinatorics Meeting](http://www.dcs.gla.ac.uk/~kitty/scm/) in Glasgow, 27 April - 01 May 2020.~~
