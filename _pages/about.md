@@ -4,7 +4,7 @@ title: "About me"
 excerpt: ""
 header:
   overlay_image: trees.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
@@ -26,7 +26,7 @@ My research interests are in Operational Research, Combinatorial Optimization, C
 
 * I am joining the [GeomScale](https://geomscale.github.io/) project this summer with a stipend by [Google](https://summerofcode.withgoogle.com/) to work on fast modern approaches to Sum-of-squares optimization.
 
-* The events all got rightly postponed or cancelled. We should all stay at home.
+* I am going to give a talk at the [SMAI MODE](https://smai-mode2020.inria.fr/en/){:target="_blank"} days in Paris, 07-09 September 2020.
 
 * ~~I am attending [PCC](https://pcc2020.github.io/) and the [Scottish Combinatorics Meeting](http://www.dcs.gla.ac.uk/~kitty/scm/) in Glasgow, 27 April - 01 May 2020.~~
   
@@ -34,12 +34,11 @@ My research interests are in Operational Research, Combinatorial Optimization, C
 
 * ~~I am going to give a talk at the [SMAI MODE](https://smai-mode2020.inria.fr/en/){:target="_blank"} days in Paris, 25-27 March  2020.~~
 
+* Our [paper](http://personal.lse.ac.uk/natura/puclications/scaling_invariant_lls.html) on a scaling-invariant interior point method for linear programming got accepted to STOC 2020.
 
-* Our [paper](http://personal.lse.ac.uk/natura/preprints/scaling_invariant_lls.html) on an interior point for linear programming got accepted to STOC 2020
-
----
+<!-- ---
 
 **IPCO 2020 will take place at LSE**
 
 [<img src="http://www.lse.ac.uk/ipco-2020/assets/images/IPCO-Poster-Final.jpg" style="width: 500px;">](http://www.lse.ac.uk/IPCO-2020)
-
+ -->

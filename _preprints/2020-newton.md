@@ -4,13 +4,13 @@ collection: preprints
 permalink: /preprints/2VPI.html
 arxiv: 'https://arxiv.org/abs/2004.08634'
 pdf: 'files/newton/pdf.pdf'
-excerpt: 'We develop a new strongly polynomial algorithm for Linear Systems with Two Variables per Inequality' 
+excerpt: 'We develop a new strongly polynomial algorithm for Linear Systems with Two Variables per Inequality.' 
 date: 2020-04-17
 # venue: 'Symposium on Theory of Computing (STOC)'
 # arxiv: 'https://arxiv.org/abs/1912.06252'
 # pdf: 'files/scaling_invariant/pdf.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
-coauthors: Zhuan Khye Koh, and L&aacute;szl&oacute; A. V&eacute;gh 
+coauthors: 'Zhuan Khye Koh, and L&aacute;szl&oacute; A. V&eacute;gh. <i>Submitted</i>' 
 ---
 
 [Mobile-friendly](../files/newton/web/index.html)
