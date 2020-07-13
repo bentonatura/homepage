@@ -4,7 +4,7 @@ collection: preprints
 permalink: /preprints/2VPI.html
 arxiv: 'https://arxiv.org/abs/2004.08634'
 pdf: 'files/newton/pdf.pdf'
-excerpt: 'We develop a new strongly polynomial algorithm for Linear Systems with Two Variables per Inequality.' 
+excerpt: 'We present a strongly polynomial label-correcting algorithm for solving the feasibility of linear systems with two variables per inequality (2VPI). The algorithm is based on the Newton-Dinkelbach method for fractional combinatorial optimization and extends previous work of Madani (2002). We also obtain an acceleration of the Newton-Dinkelbach method for general fractional combinatorial optimization problems.'
 date: 2020-04-17
 # venue: 'Symposium on Theory of Computing (STOC)'
 # arxiv: 'https://arxiv.org/abs/1912.06252'
