@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 header:
-  overlay_image: paper.jpg
+  overlay_image: light.jpg
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   overlay_filter: rgba(0, 0, 0, .5)
 permalink: /publications/

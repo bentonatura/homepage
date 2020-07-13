@@ -6,10 +6,6 @@ arxiv: 'https://arxiv.org/abs/2004.08634'
 pdf: 'files/newton/pdf.pdf'
 excerpt: 'We present a strongly polynomial label-correcting algorithm for solving the feasibility of linear systems with two variables per inequality (2VPI). The algorithm is based on the Newton-Dinkelbach method for fractional combinatorial optimization and extends previous work of Madani (2002). We also obtain an acceleration of the Newton-Dinkelbach method for general fractional combinatorial optimization problems.'
 date: 2020-04-17
-# venue: 'Symposium on Theory of Computing (STOC)'
-# arxiv: 'https://arxiv.org/abs/1912.06252'
-# pdf: 'files/scaling_invariant/pdf.pdf'
-# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 coauthors: 'Zhuan Khye Koh, and L&aacute;szl&oacute; A. V&eacute;gh. <i>Submitted</i>' 
 ---
 

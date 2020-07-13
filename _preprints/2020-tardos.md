@@ -12,7 +12,7 @@ date: 2020-04-17
 # arxiv: 'https://arxiv.org/abs/1912.06252'
 # pdf: 'files/scaling_invariant/pdf.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
-coauthors: 'Daniel Dadush, and L&aacute;szl&oacute; A. V&eacute;gh. <i>Submitted</i>' 
+coauthors: 'Daniel Dadush, and L&aacute;szl&oacute; A. V&eacute;gh. <i>Accepted to Foundations of Computer Science (FOCS), 2020</i>' 
 ---
 In breakthrough work, Tardos (Oper. Res. '86) gave a *proximity* based
 framework for solving linear programming (LP) in time depending only on
