@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+
+* 2020 Software Developer @ [GeomScale](https://geomscale.github.io/), **Google Summer of Code** 
 * 2018 Visiting Associate, **The Boston Consulting Group**, Munich, Germany 
 * 2018 Machine Learning Intern, **TNG Technology Consulting**, Munich, Germany
 
