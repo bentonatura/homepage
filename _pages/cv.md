@@ -3,7 +3,7 @@ layout: archive
 title: "Curriculum vitae"
 permalink: /cv/
 header:
-  overlay_image: white-blue-wall.jpg
+  # overlay_image: white-blue-wall.jpg
 author_profile: true
 redirect_from:
   - /resume

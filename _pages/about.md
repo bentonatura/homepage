@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: ""
 header:
-  overlay_image: trees.jpg
+  # overlay_image: trees.jpg
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
