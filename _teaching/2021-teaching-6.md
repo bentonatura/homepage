@@ -1,7 +1,7 @@
 ---
 title: "Foundations of Machine Leaning"
 collection: teaching
-type: "Undergraduate course"
+type: "PhD Course"
 permalink: /teaching/st510.html
 venue: "London School of Economics, Department of Mathematics"
 date: 2021-01-01
