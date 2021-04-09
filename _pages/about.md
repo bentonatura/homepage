@@ -34,7 +34,7 @@ My research interests are in Operational Research, Combinatorial Optimization, C
 
 * Our paper on [Faster Blackbox Algorithms for Exact Linear Programming](http://personal.lse.ac.uk/natura/preprints/blackbox.html) got accepted to [FOCS 2020](https://focs2020.cs.duke.edu/).
 
-* I am joining the [GeomScale](https://geomscale.github.io/) project this summer with a stipend by [Google](https://summerofcode.withgoogle.com/) to work on fast modern approaches to Sum-of-squares optimization.
+* I am joining the [GeomScale](https://geomscale.github.io/) project this summer with a stipend by [Google](https://summerofcode.withgoogle.com/) to work on fast modern approaches to Sums-of-squares optimization.
 
 * I am going to give a talk at the [SMAI MODE](https://smai-mode2020.inria.fr/en/){:target="_blank"} days in Paris, 07-09 September 2020.
 
