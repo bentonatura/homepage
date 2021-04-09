@@ -2,7 +2,7 @@
 layout: archive
 title: "Talks and presentations"
 header:
-  <!-- overlay_image: light2.jpg -->
+  # <!-- overlay_image: light2.jpg -->
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   overlay_filter: rgba(.999,.999,.999, .01)
 permalink: /talks/
