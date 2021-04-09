@@ -12,8 +12,8 @@ locale                   : "en-US"
 title                    : "Bento Natura"
 title_separator          : "-"
 name                     : &name "Bento Natura"
-description              : &description "Second year Mathematics PhD student at the London School of Economics"
-url                      : http://personal.lse.ac.uk/natura # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Third year Mathematics PhD student at the London School of Economics"
+url                      : https://personal.lse.ac.uk/natura # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Bento Natura"
   avatar           : "profile.png"
-  bio              : "I am a second-year PhD student at the London School of Economics under supervision of L&aacute;szl&oacute; A. V&eacute;gh."
+  bio              : "I am a third-year PhD student at the London School of Economics under supervision of L&aacute;szl&oacute; A. V&eacute;gh."
   location         : "London, United Kingdom"
   location_pin     : "https://goo.gl/maps/poUyRuRbvCkyiNE58"
   employer         : London School of Economics
